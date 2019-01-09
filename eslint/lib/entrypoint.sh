@@ -1,4 +1,7 @@
 #!/bin/sh
 
+set -e
+
 npm install
-NODE_PATH=node_modules node /action/lib/create-check.js
+
+NODE_PATH=node_modules node /action/lib/run.js
