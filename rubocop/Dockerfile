@@ -1,4 +1,4 @@
-FROM node:10-slim
+FROM ruby:alpine
 
 LABEL com.github.actions.name="RuboCop"
 LABEL com.github.actions.description=""
