@@ -2,7 +2,7 @@
 
 A collection of GitHub actions.
 
-## ESLint
+## ESLint
 
 Offload your CI for running ESLint. With this action you can run it in parallel to your CI process, which means, faster builds!
 
